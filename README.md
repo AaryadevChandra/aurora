@@ -1,6 +1,6 @@
 # aurora
 
-A brief description of your project goes here.
+Coming soon...
 
 ## Table of Contents
 
